@@ -1,0 +1,19 @@
+.footer-column:first-child {
+    width: 50%;
+}
+
+.footer-column:last-child {
+    width: 50%;
+}
+
+.center {
+    width: 90%;
+}
+
+.project-card {
+    width: 50%;
+}
+
+.contact-form {
+    width: 75%;
+}

@@ -1,0 +1,34 @@
+body {
+    padding-bottom: 250px;
+}
+
+footer {
+    height: 250px;
+}
+
+.center {
+    width: 95%;
+}
+
+.footer-column {
+    width: 100%;
+}
+
+.project-card {
+    width: 95%;
+    min-height: 0;
+}
+
+.profile-picture {
+    float: none;
+    width: 50%;
+}
+
+.bio {
+    float: none;
+    width: 100%;
+}
+
+.contact-form {
+    width: 100%;
+}
